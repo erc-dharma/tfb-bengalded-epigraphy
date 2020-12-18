@@ -2,7 +2,7 @@ os: linux
 dist: xenial
 language: java
 env:
-  - XML_DIRECTORY="xml-provisional"
+  - XML_DIRECTORY="texts/xml"
 
 addons:
   apt:
