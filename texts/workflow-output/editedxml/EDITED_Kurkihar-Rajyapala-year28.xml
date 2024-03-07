@@ -135,7 +135,7 @@
                   <app loc="1"><!-- update the value of @loc.-->
                      <lem source="bib:Gupta1965_01 bib:Bhattacharya2000_01">-caturvedimaṅgalākhyo</lem>
                      <rdg source="bib:BanerjiSastri1940_01">caturvedī maṅgalākhyo</rdg>
-	<note>AB-S’s reading comprises a silent, unnecessary emendation. On <foreign>caturvedimaṅgala</foreign>, an equivalent of <foreign>agrahāra</foreign> used in the Tamil-speaking South as a suffix to villages granted tax-free to Brahmins, see Sircar 1965: 377; IEG, s.v.</note><!-- argr2vito: le Pallava Narasimhavarman en ayant probablement été le fondateur, il est possible que Manu en parle dans son ouvrage. Je n'ai pas encore encodé la réf. Sircar, par paresse. -->
+	<note>AB-S’s reading comprises a silent, unnecessary emendation. On <foreign>caturvedimaṅgala</foreign>, an equivalent of <foreign>agrahāra</foreign> used in the Tamil-speaking South as a suffix to villages granted tax-free to Brahmins, see Sircar 1965: 377; IEG, s.v.</note><!-- argr2vito: le Pallava Narasimhavarman en ayant probablement été le fondateur, il est possible que Manu en parle dans son ouvrage. Je n'ai pas encore encodé la réf. Sircar, par paresse. -->
                   </app>
                </listApp>
          </div>
