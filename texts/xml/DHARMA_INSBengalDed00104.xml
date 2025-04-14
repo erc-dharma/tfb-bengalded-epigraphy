@@ -110,7 +110,7 @@ n="4"/><milestone unit="zone" n="1"/><gap reason="illegible" unit="character" qu
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited by G. Bhattacharya (<bibl rend="omitname"><ptr target="bib:Bhattacharya1986_02"/></bibl>), whose article was subsequently included in the same scholar's collected writings (<bibl rend="omitname"><ptr target="bib:Bhattacharya2000_01"/></bibl>. This digital edition (2025) by Rajat Sanyal from published documentation, with assistance from Arlo Griffiths.</p>
+           <p>First edited by G. Bhattacharya (<bibl rend="omitname"><ptr target="bib:Bhattacharya1986_02"/></bibl>), whose article was subsequently included in the same scholar's collected writings (<bibl rend="omitname"><ptr target="bib:Bhattacharya2000_01"/></bibl>). This digital edition (2025) by Rajat Sanyal from published documentation, with assistance from Arlo Griffiths.</p>
         	<listBibl type="primary">
 		<bibl n="B"><ptr target="bib:Bhattacharya1986_02"/><citedRange>32-38</citedRange></bibl>
 	</listBibl>
