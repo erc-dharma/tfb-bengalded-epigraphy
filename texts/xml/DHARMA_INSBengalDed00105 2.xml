@@ -85,7 +85,7 @@ The script name(s) will be inserted here at a later stage from the metadata spre
   	<div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83209">
 	<!-- class:83225 = northern class Brāhmī:Siddhamātr̥kā, maturity:83213 = regional Brāhmī-derived script -->
 <p>
-<lb n="1"/><g type="spiralL"/> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndra<add place="above">pā</add>ladeva-rājya-samva<choice><orig>cch</orig><reg>ts</reg></choice>ar<choice><sic>a</sic><corr>e</corr></choice> caturtthe mā<lb n="2" break="no"/>rggaśira-śukla-pratipādāyāṁ bhikṣu-dharmmamitra<lb n="3" break="no"/>-māt<choice><sic>ā</sic><corr>r̥</corr></choice>-gautamī-<abbr>puṁ</abbr> <lb n="4"/> devadharmmo <supplied reason="subaudible">'</supplied>yaṁ prati<supplied reason="lost">pā</supplied><lb n="5" break="no"/>ditam iti</p>
+<lb n="1"/><g type="spiralL"/> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndra<add place="above">pā</add>ladeva-rājya-samva<choice><orig>cch</orig><reg>ts</reg></choice>ar<choice><sic>a</sic><corr>e</corr></choice> caturtthe mā<lb n="2" break="no"/>rggaśira-śukla-pratipādāyāṁ bhikṣu-dharmmamitra<lb n="3" break="no"/>-mātā gautamī <abbr>puṁ</abbr> <lb n="4"/> devadharmmo <supplied reason="subaudible">'</supplied>yaṁ prati<supplied reason="lost">pā</supplied><lb n="5" break="no"/>ditam iti</p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -95,18 +95,18 @@ The script name(s) will be inserted here at a later stage from the metadata spre
 		<note><seg rend="check">Check presence of repha.</seg></note>
                   </app>
 	<app loc="3">
-                     <lem>gautamī-</lem>
+                     <lem>gautamī</lem>
                      <rdg source="bib:ARASI1923-1924_01">gautam<choice><sic>ā</sic><corr>yāḥ</corr></choice></rdg>
                   </app>
 	<app loc="3">
 	<lem><abbr>puṁ</abbr></lem>
 	<rdg source="bib:ARASI1923-1924_01">[puṇyārttham]</rdg>
-	<note>Chanda does not indicate what he actually read but notes: <q>Restored by Pandit B. B. Bidyabinod</q>. The square brackets in his reading thus seem to signify expansion of abbreviation.</note>
+	<note>Chanda notes: <q>Restored by Pandit B. B. Bidyabinod</q>. The square brackets in his reading thus seem to signify expansion of abbreviation. But he does not indicate what he read.</note>
 </app>
                </listApp>
          </div>
          <div type="translation">
-<p>Success! In the fourth year of the reign of Śrī Mahendrapāladeva, on the first day of the waxing fortnight of the month of Mārgaśīrṣa (November-December), this pious gift was executed for the religious merit of Gautamī, the mother of the monk Dharmamitra.</p>
+<p>Success! In the fourth year of the reign of Śrī Mahendrapāladeva, on the first day of the bright half of the month of Mārgaśīrṣa [November-December], this pious gift was executed for the religious merit of Gautamī, the mother of the monk Dharmamitra.</p>
           </div>
          <div type="commentary">
             <p>The first two lines of the text are laid out below the lotus base of the image, and the text is continued on the unprepared part of the pedestal to the top right of the first two lines.</p>
