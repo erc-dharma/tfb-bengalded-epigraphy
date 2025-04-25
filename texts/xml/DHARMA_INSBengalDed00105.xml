@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-         	<title>Dedication of a stone Khasarpaṇa Lokeśvara image, Mahendrapāla, year 2</title>
+         	<title>Dedication of a stone image of the Buddha taming Nālāgiri, Mahendrapāla, year 4</title>
          	<respStmt>
          		<resp>author of digital edition</resp>
          		<persName ref="part:rasa">
@@ -23,7 +23,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Kolkata</pubPlace>
-         	<idno type="filename">DHARMA_INSBengalDed00104</idno>
+         	<idno type="filename">DHARMA_INSBengalDed00105</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit	https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -77,7 +77,7 @@ The script name(s) will be inserted here at a later stage from the metadata spre
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:argr part:rasa" when="2025-04-14" status="draft">encoded the inscription</change>
+         <change who="part:argr part:rasa" when="2025-04-25" status="draft">encoded the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -85,44 +85,46 @@ The script name(s) will be inserted here at a later stage from the metadata spre
   	<div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83209">
 	<!-- class:83225 = northern class Brāhmī:Siddhamātr̥kā, maturity:83213 = regional Brāhmī-derived script -->
 <p>
-<lb n="1"/><milestone unit="zone" n="1"/><g type="spiralL"/> saṁm<unclear>v</unclear>aT <num value="2">2</num> <unclear cert="low">śrī-mahendrap</unclear>āla-<add place="above">deva</add>-pravarddha<milestone unit="zone" n="2" break="no"/>mā<unclear>na</unclear>-vijaya-rā<lb 
-n="2" break="no"/><milestone unit="zone" n="1" break="no"/><unclear>jye</unclear> <gap reason="illegible" unit="character" quantity="8"/><!-- sakalsatva-rāśe -->r eva <milestone unit="zone" n="2"/>hu<unclear>sa</unclear> <gap reason="illegible" unit="character" quantity="4"/>je-śr<unclear>ī</unclear>- 
-<lb n="3"/><milestone unit="zone" n="1"/><gap reason="illegible" unit="character" quantity="2" precision="low"/> ta <milestone unit="zone" n="2"/>de <gap reason="illegible" unit="character" quantity="4"/> de<unclear>va</unclear><lb break="no" 
-n="4"/><milestone unit="zone" n="1"/><gap reason="illegible" unit="character" quantity="2" precision="low"/>dhyā<milestone unit="zone" n="2" break="no"/>ya<gap reason="illegible" unit="character" quantity="3" precision="low"/> 
-<lb n="5"/><milestone unit="zone" n="1"/><gap reason="illegible" unit="character" quantity="1"/> Anu<milestone unit="zone" n="2" break="no"/>ttara <gap reason="illegible" unit="character" quantity="3"/>
-<lb n="6"/><milestone unit="zone" n="1"/><gap reason="illegible" unit="character" quantity="1"/>kana<!-- jñāna? --><milestone unit="zone" n="2" break="no"/><gap reason="illegible" unit="character" quantity="2"/>
-</p>
+<lb n="1"/><g type="spiralL"/> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndra<add place="above">pā</add>ladeva-rājya-samva<choice><orig>cch</orig><reg>ts</reg></choice>ar<choice><sic>a</sic><corr>e</corr></choice> caturtthe mā<lb n="2" break="no"/>rggaśira-śukla-pratipādāyāṁ bhikṣu-dharmmamitra<lb n="3" break="no"/>-mātā gautamī <abbr>puṁ</abbr> <lb n="4"/> devadharmmo <supplied reason="subaudible">'</supplied>yaṁ prati<supplied reason="lost">pā</supplied><lb n="5" break="no"/>ditam iti</p>
          </div>
-         <!-- <div type="apparatus">
-           <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
-               <listApp><!-\- one <app> for each apparatus entry -\->
-                  <app loc="1"><!-\- update the value of @loc.-\->
-                     <lem source="bib:...">...</lem>
-                     <rdg source="bib:...">...</rdg>
-	<note>...</note>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="1">
+                     <lem>caturtthe</lem>
+                     <rdg source="bib:ARASI1923-1924_01">catu<supplied reason="omitted">r</supplied>tthe</rdg>
+		<note><seg rend="check">Check presence of repha.</seg></note>
                   </app>
+	<app loc="3">
+                     <lem>gautamī</lem>
+                     <rdg source="bib:ARASI1923-1924_01">gautam<choice><sic>ā</sic><corr>yāḥ</corr></choice></rdg>
+                  </app>
+	<app loc="3">
+	<lem><abbr>puṁ</abbr></lem>
+	<rdg source="bib:ARASI1923-1924_01">[puṇyārttham]</rdg>
+	<note>Chanda notes: <q>Restored by Pandit B. B. Bidyabinod</q>. The square brackets in his reading thus seem to signify expansion of abbreviation. But he does not indicate what he read.</note>
+</app>
                </listApp>
-         </div> -->
+         </div>
          <div type="translation">
-<p>....</p>
+<p>Success! In the fourth year of the reign of Śrī Mahendrapāladeva, on the first day of the bright half of the month of Mārgaśīrṣa [November-December], this pious gift was executed for the religious merit of Gautamī, the mother of the monk Dharmamitra.</p>
           </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>The first two lines of the text are laid out below the lotus base of the image, and the text is continued on the unprepared part of the pedestal to the top right of the first two lines.</p>
          </div>
         <div type="bibliography">
-           <p>First edited by G. Bhattacharya (<bibl rend="omitname"><ptr target="bib:Bhattacharya1986_02"/></bibl>), whose article was subsequently included in the same scholar's collected writings (<bibl rend="omitname"><ptr target="bib:Bhattacharya2000_01"/></bibl>). This digital edition (2025) by Rajat Sanyal from published documentation, with assistance from Arlo Griffiths.</p>
+           <p>First edited by R. P. Chanda in <bibl><ptr target="bib:ARASI1923-1924_01"/></bibl>. This digital edition (2025) by Rajat Sanyal from published documentation, with assistance from Arlo Griffiths.</p>
         	<listBibl type="primary">
-		<bibl n="B"><ptr target="bib:Bhattacharya1986_02"/><citedRange>32-38</citedRange></bibl>
+		<bibl n="Chanda"><ptr target="bib:ARASI1923-1924_01"/><citedRange unit="page">100-101</citedRange><citedRange unit="plate">XXXVI (b)</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Bhattacharya2000_01"/><citedRange unit="page">61-73, 529-532</citedRange></bibl>  
-	<bibl><ptr target="bib:Sanyal2009_01"/><citedRange unit="page">304-305</citedRange><citedRange unit="item">1</citedRange></bibl>       
+              <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">228</citedRange><citedRange unit="item">1642</citedRange></bibl>  
+	<bibl><ptr target="bib:Sanyal2009_01"/><citedRange unit="page">305</citedRange><citedRange unit="item">2</citedRange></bibl>       
            </listBibl>
         </div>
       </body>
   </text>
 </TEI>
 <!-- metadata:
-Berlin, MIK, no. I.1156
+Indian Museum, no. ???
 Huntington Archive no. .... ???
 -->
