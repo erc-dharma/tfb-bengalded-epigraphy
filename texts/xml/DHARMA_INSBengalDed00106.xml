@@ -85,10 +85,10 @@ The script name(s) will be inserted here at a later stage from the metadata spre
   	<div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83209">
 	<!-- class:83225 = northern class Brāhmī:Siddhamātr̥kā, maturity:83213 = regional Brāhmī-derived script -->
 <p><milestone type="pagelike" unit="zone" n="A"/><label xml:lang="eng">Around the top of the stele</label>
-<lb n="A1"/><lg n="1" met="āryā">
+<seg rend="check"><lb n="A1"/><lg n="1" met="āryā">
 <l n="ab">ye dharmmā hetuprabhavā hetuṁ teṣāṁ tathāgato hy avadat</l> 
 <l n="cd">teṣāṁ ca yo nirodha Evaṁvādī mahāśramaṇaḥ <g type="ddanda"/></l>
-</lg>
+</lg></seg><!-- reading of stanza still to be checked against photos -->
 <milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">On the pedestal</label>
 <lb n="B1"/><g type="spiralL"/> <abbr>samvaT</abbr> <num value="4">4</num> caitra-<abbr>śudi</abbr> <num value="10"><g type="numeral">10</g></num> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndrapāladeva-rājye saindhavā<seg rend="check">nāṁ</seg> 
 <lb n="B2"/><seg rend="check"><unclear>dā</unclear>n<choice><sic>a</sic><corr>ā</corr></choice>rthe</seg> kumārabhaṭṭeṇa deva<surplus>d</surplus>dharmma<supplied reason="omitted">ḥ</supplied> pratipād<choice><sic>ī</sic><corr>i</corr></choice>taḥ <g type="danda"/></p>
@@ -98,7 +98,7 @@ The script name(s) will be inserted here at a later stage from the metadata spre
                   <app loc="B1">
                      <lem>saindhavānāṁ <lb n="B2"/><unclear>dā</unclear>n<choice><sic>a</sic><corr>ā</corr></choice>rthe</lem>
 	      <rdg source="bib:Sastri1942_01">saindhavānām <lb n="B2"/><unclear>dā</unclear>n<choice><sic>a</sic><corr>ā</corr></choice>rthe</rdg>
-		<note>N. P. Chakracarti as editor of Sastri's work commented in a footnote: <q>Reading or the last two sylables in the first line and of the first two in the second is doubtful.</q> <seg rend="check">Ought one to read <foreign>saindhavāvānartha</foreign> and emend this to <foreign>saindhava-dānārthaṁ</foreign>?</seg></note>
+		<note>N. P. Chakracarti, as editor of Sastri's work, commented in a footnote: <q>Reading or the last two sylables in the first line and of the first two in the second is doubtful.</q> <seg rend="check">Ought one to read <foreign>saindhavāvānartha</foreign> and emend this to <foreign>saindhava-dānārthaṁ</foreign>?</seg></note>
                   </app>
 	<app loc="B2">
 		<lem>kumārabhaṭṭeṇa</lem>
