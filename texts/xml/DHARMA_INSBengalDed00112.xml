@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-         	<title>Dedication of a stone image of the Buddha taming Nālāgiri, Mahendrapāla, year 4</title>
+         	<title>Dedication of a stone pillar, Mahendrapāla, year 5</title>
          	<respStmt>
          		<resp>author of digital edition</resp>
          		<persName ref="part:rasa">
@@ -23,7 +23,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Kolkata</pubPlace>
-         	<idno type="filename">DHARMA_INSBengalDed00105</idno>
+         	<idno type="filename">DHARMA_INSBengalDed00112</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit	https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -45,7 +45,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Standard Pāla-period Siddhamātr̥kā.<!-- 
+                     <p>Pāla-period Siddhamātr̥kā with some modern traits. The <foreign>anusvāra</foreign> is realized in its modern Bengali form; the <foreign>avagraha</foreign> is explicitly noted.<!-- 
 Examples of repha integrated into the akṣara below:
 
 The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
@@ -77,61 +77,46 @@ The script name(s) will be inserted here at a later stage from the metadata spre
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:argr part:rasa" when="2025-04-29" status="draft">added ye dharmah stanza</change>
-         <change who="part:argr part:rasa" when="2025-04-25" status="draft">encoded the inscription</change>
+         <change who="part:argr part:rasa" when="2025-04-29" status="draft">encoded the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
   	<div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83209">
 	<!-- class:83225 = northern class Brāhmī:Siddhamātr̥kā, maturity:83213 = regional Brāhmī-derived script -->
-<p><milestone type="pagelike" unit="zone" n="A"/><label xml:lang="eng">Around the Buddha</label>
-<lb n="A1"/><lg n="1" met="āryā">
-<l n="ab">ye dharmmā hetuprabhavā hetuṁ teṣā<unclear>ṁ</unclear> tathāgato hy avad<surplus>t</surplus>at</l> 
-<l n="cd">teṣāṁ ca yo niro<choice><sic>v</sic><corr>dh</corr></choice>a <choice><sic>Ai</sic><corr>E</corr></choice>vaṁvādī mahāśramaṇaḥ <g type="ddanda"/></l>
-</lg>
-<milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">Below the Buddha's feet</label>
-<lb n="B1"/><g type="spiralL"/> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndra<add place="above">pā</add>ladeva-rājya-samva<choice><orig>cch</orig><reg>ts</reg></choice>ar<choice><sic>a</sic><corr>e</corr></choice> caturtthe mā<lb n="B2" break="no"/>rggaśira-śukla-pratipādāyāṁ bhikṣu-dharmmamitra<lb n="B3" break="no"/>-māt<choice><sic>ā</sic><corr>r̥</corr></choice>-gautamī-<abbr>puṁ</abbr> <lb n="B4"/> devadharmmo <supplied reason="subaudible">'</supplied>yaṁ prati<supplied reason="lost">pā</supplied><lb n="B5" break="no"/>ditam iti</p>
+<p><lb n="1"/><g type="spiralL"/> <abbr>samvat·</abbr> <num value="5">5</num> śrāvaṇa-dine <num value="7">7</num>
+<lb n="2"/>śrī<surplus><g type="danda"/></surplus>-mahendrapāladeva-rājye 
+<lb n="3"/>bhi<choice><sic><unclear>ch</unclear></sic><corr>kṣ</corr></choice>u-sujayagarbheṇa vuddha<lb 
+n="4" break="no"/>-bhaṭṭārakāya pradatta<supplied reason="omitted">ḥ</supplied> sta<lb 
+n="5" break="no"/>mbho 'yaṁ satvārthahetoḥ
+
+ <g type="danda"/></p>
          </div>
          <div type="apparatus">
                <listApp>
-                  <app loc="1">
-                     <lem>caturtthe</lem>
-                     <rdg source="bib:ARASI1923-1924_01">catu<supplied reason="omitted">r</supplied>tthe</rdg>
-		<note><seg rend="check">Check presence of repha.</seg></note>
-                  </app>
-	<app loc="3">
-                     <lem>gautamī-</lem>
-                     <rdg source="bib:ARASI1923-1924_01">gautam<choice><sic>ā</sic><corr>yāḥ</corr></choice></rdg>
-                  </app>
-	<app loc="3">
-	<lem><abbr>puṁ</abbr></lem>
-	<rdg source="bib:ARASI1923-1924_01">[puṇyārttham]</rdg>
-	<note>Chanda does not indicate what he actually read but notes: <q>Restored by Pandit B. B. Bidyabinod</q>. The square brackets in his reading thus seem to signify expansion of abbreviation.</note>
-</app>
+	<app loc="1">
+		<lem>bhi<choice><sic><unclear>ch</unclear></sic><corr>kṣ</corr></choice>u-sujayagarbheṇa</lem>
+		<rdg source="bib:Dikshit1938_01">bhi<choice><sic>cch</sic><corr>kṣ</corr></choice>u-Ajayagarbheṇa</rdg>
+		<note>The second akṣara of the word intended as <foreign>bhikṣu</foreign> (or perhaps <foreign>bhikkhu</foreign>) is very hard to recognize as the <foreign>cchu</foreign> that Dikshit read.</note>
+	</app>
                </listApp>
          </div>
          <div type="translation">
-<p n="A1">The states arisen from a cause, their cause the Tathāgata proclaims, as well as their cessation: This is the teaching of the Great Ascetic.</p>
-<p n="B1-B5">In the fourth year of the reign of Śrī Mahendrapāladeva, on the first day of the waxing fortnight of the month of Mārgaśīrṣa, this pious gift was executed for the religious merit of Gautamī, the mother of the monk Dharmamitra.</p>
+<p n="1">During the reign of  Śrī Mahendrapāladeva, year 5, on the seventh day of <supplied reason="explanation">the month of</supplied> Śrāvaṇa, the monk <supplied reason="explanation">named</supplied> Sujayagarbha offered this pillar to the Lord Buddha for the welfare <supplied reason="subaudible">of all</supplied> beings.</p>
           </div>
-         <div type="commentary">
-            <p>The first two lines of the text are laid out below the lotus base of the image, and the text is continued on the unprepared part of the pedestal to the top right of the first two lines.</p>
-         </div>
+         <div type="commentary"/>
         <div type="bibliography">
-           <p>First edited by R. P. Chanda in <bibl><ptr target="bib:ARASI1923-1924_01"/></bibl>. This digital edition (2025) by Rajat Sanyal from published documentation, with assistance from Arlo Griffiths.</p>
+           <p>First edited by K. N. Dikshit (<bibl rend="omitname"><ptr target="bib:Dikshit1938_01"/></bibl>). This digital edition (2025) by Rajat Sanyal from published documentation, with assistance from Arlo Griffiths.</p>
         	<listBibl type="primary">
-		<bibl n="Chanda"><ptr target="bib:ARASI1923-1924_01"/><citedRange unit="page">100-101</citedRange><citedRange unit="plate">XXXVI (b)</citedRange></bibl>
+		<bibl n="S"><ptr target="bib:Dikshit1938_01"/><citedRange unit="page">74-75</citedRange><citedRange unit="plate">LXV (a)</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Bhandarkar1927-1936_01"/><citedRange unit="page">228</citedRange><citedRange unit="item">1642</citedRange></bibl>  
-	<bibl><ptr target="bib:Sanyal2009_01"/><citedRange unit="page">305</citedRange><citedRange unit="item">2</citedRange></bibl>       
+	<bibl><ptr target="bib:Sanyal2009_01"/><citedRange unit="page">306</citedRange><citedRange unit="item">4</citedRange></bibl>       
            </listBibl>
         </div>
       </body>
   </text>
 </TEI>
 <!-- metadata:
-Indian Museum, no. 4246/A25297
-https://dsal.uchicago.edu/cgi-bin/huntington/show_detail.py?ObjectID=30035477
+Huntington Archive no. .... ???
 -->
