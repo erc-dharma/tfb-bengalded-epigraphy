@@ -77,6 +77,7 @@ The script name(s) will be inserted here at a later stage from the metadata spre
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      	  <change who="part:argr" when="2026-04-13" status="draft">removed lg from embedding within p</change>
          <change who="part:argr part:rasa" when="2025-04-29" status="draft">added ye dharmah stanza</change>
          <change who="part:argr part:rasa" when="2025-04-25" status="draft">encoded the inscription</change>
       </revisionDesc>
@@ -85,12 +86,11 @@ The script name(s) will be inserted here at a later stage from the metadata spre
       <body>
   	<div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83209">
 	<!-- class:83225 = northern class Brāhmī:Siddhamātr̥kā, maturity:83213 = regional Brāhmī-derived script -->
-<p><milestone type="pagelike" unit="zone" n="A"/><label xml:lang="eng">Around the Buddha</label>
-<lb n="A1"/><lg n="1" met="āryā">
-<l n="ab">ye dharmmā hetuprabhavā hetuṁ teṣā<unclear>ṁ</unclear> tathāgato hy avad<surplus>t</surplus>at</l> 
+<lg n="1" met="āryā">
+<l n="ab"><milestone type="pagelike" unit="zone" n="A"/><lb n="A1"/><label xml:lang="eng">Around the Buddha</label>ye dharmmā hetuprabhavā hetuṁ teṣā<unclear>ṁ</unclear> tathāgato hy avad<surplus>t</surplus>at</l> 
 <l n="cd">teṣāṁ ca yo niro<choice><sic>v</sic><corr>dh</corr></choice>a <choice><sic>Ai</sic><corr>E</corr></choice>vaṁvādī mahāśramaṇaḥ <g type="ddanda"/></l>
 </lg>
-<milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">Below the Buddha's feet</label>
+<p><milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">Below the Buddha's feet</label>
 <lb n="B1"/><g type="spiralL"/> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndra<add place="above">pā</add>ladeva-rājya-samva<choice><orig>cch</orig><reg>ts</reg></choice>ar<choice><sic>a</sic><corr>e</corr></choice> caturtthe mā<lb n="B2" break="no"/>rggaśira-śukla-pratipādāyāṁ bhikṣu-dharmmamitra<lb n="B3" break="no"/>-māt<choice><sic>ā</sic><corr>r̥</corr></choice>-gautamī-<abbr>puṁ</abbr> <lb n="B4"/> devadharmmo <supplied reason="subaudible">'</supplied>yaṁ prati<supplied reason="lost">pā</supplied><lb n="B5" break="no"/>ditam iti</p>
          </div>
          <div type="apparatus">
