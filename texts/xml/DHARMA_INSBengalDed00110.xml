@@ -87,7 +87,7 @@ The script name(s) will be inserted here at a later stage from the metadata spre
   	<div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83209">
 	<!-- class:83225 = northern class Brāhmī:Siddhamātr̥kā, maturity:83213 = regional Brāhmī-derived script -->
 <lg n="1" met="āryā">
-<l n="ab"><milestone type="pagelike" unit="zone" n="A"/><lb n="A1"/><label xml:lang="eng">Around the Buddha</label>ye dharmmā hetuprabhavā hetuṁ teṣā<unclear>ṁ</unclear> tathāgato hy avad<surplus>t</surplus>at</l> 
+<l n="ab"><milestone type="pagelike" unit="zone" n="A"/><label xml:lang="eng">Around the Buddha</label><lb n="A1"/>ye dharmmā hetuprabhavā hetuṁ teṣā<unclear>ṁ</unclear> tathāgato hy avad<surplus>t</surplus>at</l> 
 <l n="cd">teṣāṁ ca yo niro<choice><sic>v</sic><corr>dh</corr></choice>a <choice><sic>Ai</sic><corr>E</corr></choice>vaṁvādī mahāśramaṇaḥ <g type="ddanda"/></l>
 </lg>
 <p><milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">Below the Buddha's feet</label>
