@@ -58,19 +58,13 @@ The script name(s) will be inserted here at a later stage from the metadata spre
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
             </prefixDef>
@@ -87,11 +81,11 @@ The script name(s) will be inserted here at a later stage from the metadata spre
 <p><milestone type="pagelike" unit="zone" n="A"/><label xml:lang="eng">Around the top of the stele</label>
 <seg rend="check"><lb n="A1"/><lg n="1" met="āryā">
 <l n="ab">ye dharmmā hetuprabhavā hetuṁ teṣāṁ tathāgato hy avadat</l> 
-<l n="cd">teṣāṁ ca yo nirodha Evaṁvādī mahāśramaṇaḥ <g type="ddanda"/></l>
+<l n="cd">teṣāṁ ca yo nirodha Evaṁvādī mahāśramaṇaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg></seg><!-- reading of stanza still to be checked against photos -->
 <milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">On the pedestal</label>
-<lb n="B1"/><g type="spiralL"/> <abbr>samvaT</abbr> <num value="4">4</num> caitra-<abbr>śudi</abbr> <num value="10"><g type="numeral">10</g></num> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndrapāladeva-rājye saindhavā<seg rend="check">nāṁ</seg> 
-<lb n="B2"/><seg rend="check"><unclear>dā</unclear>n<choice><sic>a</sic><corr>ā</corr></choice>rthe</seg> kumārabhaṭṭeṇa deva<surplus>d</surplus>dharmma<supplied reason="omitted">ḥ</supplied> pratipād<choice><sic>ī</sic><corr>i</corr></choice>taḥ <g type="danda"/></p>
+<lb n="B1"/><g ref="sym:spiral-left" type="symbol">*</g> <abbr>samvaT</abbr> <num value="4">4</num> caitra-<abbr>śudi</abbr> <num value="10"><g type="numeral">10</g></num> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndrapāladeva-rājye saindhavā<seg rend="check">nāṁ</seg> 
+<lb n="B2"/><seg rend="check"><unclear>dā</unclear>n<choice><sic>a</sic><corr>ā</corr></choice>rthe</seg> kumārabhaṭṭeṇa deva<surplus>d</surplus>dharmma<supplied reason="omitted">ḥ</supplied> pratipād<choice><sic>ī</sic><corr>i</corr></choice>taḥ <g ref="sym:bar" type="punctuation">.</g></p>
          </div>
          <div type="apparatus">
                <listApp>

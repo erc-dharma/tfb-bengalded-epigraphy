@@ -62,19 +62,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -92,37 +86,37 @@
    	<div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83209">
 	<!-- class:83225 = northern class Brāhmī:Siddhamātr̥kā, maturity:83213 = regional Brāhmī-derived script -->
 <lg n="1" met="anuṣṭubh">
-<l n="a"><lb n="1"/> <g type="spiral"/><!-- siddham --> śrīmat-kāñcīm ala<supplied reason="omitted">ṁ</supplied>kurvann</l> 
+<l n="a"><lb n="1"/> <g ref="sym:spiral" type="symbol">*</g><!-- siddham --> śrīmat-kāñcīm ala<supplied reason="omitted">ṁ</supplied>kurvann</l> 
 <l n="b">asti grāmaḥ satām mataḥ</l> 
 <l n="c" enjamb="yes">narasiṁha-caturvedi</l>
-<l n="d">maṅgalākhyo mahīyasāṁ<g type="ddanda">.</g></l>
+<l n="d">maṅgalākhyo mahīyasāṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg> 
 <lg n="2" met="anuṣṭubh">
 <l n="a">dvijānām ālayo ramyo</l>
 <l n="b">veda-vedāṅga<lb n="2" break="no"/>-vedinā<supplied reason="omitted">ṁ</supplied></l>
 <l n="c">tatra viprā<choice><sic>t</sic><corr>n</corr></choice>vay<unclear>e</unclear> śuddhe</l>
-<l n="d">lavdhajanmā guṇānvitaḥ<g type="ddanda">.</g></l>
+<l n="d">lavdhajanmā guṇānvitaḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg> 
 <lg n="3" met="anuṣṭubh">
 <l n="a">yo vairocanasiṁhasya</l>
-<l n="b">sthavirasya guṇ<unclear>o</unclear>dadheḥ<g type="danda">.</g></l> 
+<l n="b">sthavirasya guṇ<unclear>o</unclear>dadheḥ<g ref="sym:bar" type="punctuation">.</g></l> 
 <l n="c">prajñāsiṁha Iti khyāta<supplied reason="omitted">ḥ</supplied></l>
-<l n="d">śiśyo 'bhūd guṇinā<lb n="3" break="no"/>m mataḥ<g type="ddanda">.</g></l>
+<l n="d">śiśyo 'bhūd guṇinā<lb n="3" break="no"/>m mataḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg> 
 <lg n="4" met="anuṣṭubh">
 <l n="a"><choice><sic>ś</sic><corr>s</corr></choice>o 'kārayad idaṁ vimvaṁ</l> <l n="b">saugataṁ ghaṭ<supplied reason="omitted">ṭ</supplied>ano<choice><orig>jv</orig><reg>jjv</reg></choice>ala<supplied reason="omitted">ṁ</supplied></l>
 <l n="c">śuddhar<choice><sic>ā</sic><corr>ī</corr></choice>ti-mayaṁ bhaktyā</l>
-<l n="d">nyāyāṁ mārga-samāśritaḥ <g type="ddanda">.</g></l>
+<l n="d">nyāyāṁ mārga-samāśritaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg n="5" met="anuṣṭubh">
 <l n="a" enjamb="yes">Anena <space type="descender"/><!-- argr2vito: ce n'est pas obligatoire selon notre Guide, mais j'ai cru utile de marquer explictement cet espace provoqué par jñā en ligne 2 -->puṇyenācāryo</l>
 <l n="b">pādhyāya-sa<space type="descender"/><!-- argr2vito: et ici également -->hita<supplied reason="omitted">ṁ</supplied> <lb n="4"/>jaga<choice><sic>ta</sic><corr>t·</corr></choice><!-- argr2vito: ici pour la forme corrigée, on pourrait également prendre T --></l> 
 <l n="c">mātā-pitr̥-samāyukta<supplied reason="omitted">ṁ</supplied></l>
-<l n="d">saugataṁ padam āpnuyā<choice><sic>ta</sic><corr>t·</corr></choice><!-- argr2vito: ici pour la forme corrigée, on pourrait également prendre T --><g type="ddanda">.</g></l>
+<l n="d">saugataṁ padam āpnuyā<choice><sic>ta</sic><corr>t·</corr></choice><!-- argr2vito: ici pour la forme corrigée, on pourrait également prendre T --><g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg n="6" met="āryā">
-<l n="ab">śrīrāj<supplied reason="omitted">y</supplied>apāla-nāmni kṣitibhr̥ti bhuvam avati kīrttir atimahatī<g type="danda">.</g></l>
-<l n="cd">Avdi '<choice><sic>p</sic><corr>ṣ</corr></choice>ṭāviṁśatime kr̥tā <lb n="5"/><choice><sic>ś</sic><corr>s</corr></choice><unclear>i</unclear>tadinā<choice><sic>p</sic><corr>ṣ</corr></choice>ṭa-vaiśākhe<g type="ddanda">.</g></l>
+<l n="ab">śrīrāj<supplied reason="omitted">y</supplied>apāla-nāmni kṣitibhr̥ti bhuvam avati kīrttir atimahatī<g ref="sym:bar" type="punctuation">.</g></l>
+<l n="cd">Avdi '<choice><sic>p</sic><corr>ṣ</corr></choice>ṭāviṁśatime kr̥tā <lb n="5"/><choice><sic>ś</sic><corr>s</corr></choice><unclear>i</unclear>tadinā<choice><sic>p</sic><corr>ṣ</corr></choice>ṭa-vaiśākhe<g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- alternative, to get a gīti: <l n="cd">Avdi '<choice><sic>p</sic><corr>ṣ</corr></choice>ṭāviṁśatime kr̥t<supplied reason="omitted">t</supplied>ā <lb n="5"/>ś<unclear>i</unclear>tadinā<choice><sic>p</sic><corr>ṣ</corr></choice>ṭa<supplied reason="omitted">me</supplied> vaiśākhe<g type="ddanda">.</g></l>-->
 </lg>
          </div>

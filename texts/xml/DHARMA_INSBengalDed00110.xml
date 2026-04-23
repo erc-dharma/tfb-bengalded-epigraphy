@@ -58,19 +58,13 @@ The script name(s) will be inserted here at a later stage from the metadata spre
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
             </prefixDef>
@@ -88,10 +82,10 @@ The script name(s) will be inserted here at a later stage from the metadata spre
 	<!-- class:83225 = northern class Brāhmī:Siddhamātr̥kā, maturity:83213 = regional Brāhmī-derived script -->
 <lg n="1" met="āryā">
 <l n="ab"><milestone type="pagelike" unit="zone" n="A"/><label xml:lang="eng">Around the Buddha</label><lb n="A1"/>ye dharmmā hetuprabhavā hetuṁ teṣā<unclear>ṁ</unclear> tathāgato hy avad<surplus>t</surplus>at</l> 
-<l n="cd">teṣāṁ ca yo niro<choice><sic>v</sic><corr>dh</corr></choice>a <choice><sic>Ai</sic><corr>E</corr></choice>vaṁvādī mahāśramaṇaḥ <g type="ddanda"/></l>
+<l n="cd">teṣāṁ ca yo niro<choice><sic>v</sic><corr>dh</corr></choice>a <choice><sic>Ai</sic><corr>E</corr></choice>vaṁvādī mahāśramaṇaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <p><milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">Below the Buddha's feet</label>
-<lb n="B1"/><g type="spiralL"/> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndra<add place="above">pā</add>ladeva-rājya-samva<choice><orig>cch</orig><reg>ts</reg></choice>ar<choice><sic>a</sic><corr>e</corr></choice> caturtthe mā<lb n="B2" break="no"/>rggaśira-śukla-pratipādāyāṁ bhikṣu-dharmmamitra<lb n="B3" break="no"/>-māt<choice><sic>ā</sic><corr>r̥</corr></choice>-gautamī-<abbr>puṁ</abbr> <lb n="B4"/> devadharmmo <supplied reason="subaudible">'</supplied>yaṁ prati<supplied reason="lost">pā</supplied><lb n="B5" break="no"/>ditam iti</p>
+<lb n="B1"/><g ref="sym:spiral-left" type="symbol">*</g> śrī-mah<choice><sic>i</sic><corr>e</corr></choice>ndra<add place="above">pā</add>ladeva-rājya-samva<choice><orig>cch</orig><reg>ts</reg></choice>ar<choice><sic>a</sic><corr>e</corr></choice> caturtthe mā<lb n="B2" break="no"/>rggaśira-śukla-pratipādāyāṁ bhikṣu-dharmmamitra<lb n="B3" break="no"/>-māt<choice><sic>ā</sic><corr>r̥</corr></choice>-gautamī-<abbr>puṁ</abbr> <lb n="B4"/> devadharmmo <supplied reason="subaudible">'</supplied>yaṁ prati<supplied reason="lost">pā</supplied><lb n="B5" break="no"/>ditam iti</p>
          </div>
          <div type="apparatus">
                <listApp>
