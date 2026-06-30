@@ -92,7 +92,7 @@ The script name(s) will be inserted here at a later stage from the metadata spre
                   <app loc="1">
                      <lem>caturtthe</lem>
                      <rdg source="bib:ARASI1923-1924_01">catu<supplied reason="omitted">r</supplied>tthe</rdg>
-		<note><seg rend="check">Check presence of repha.</seg></note>
+		<note><hi rend="check">Check presence of repha.</hi></note>
                   </app>
 	<app loc="3">
                      <lem>gautamī-</lem>
