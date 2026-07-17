@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Kurkihar bronze pedestal dedication, Rājyapāla year 28</title>
             <respStmt>
-               <resp>Author of digital edition</resp>
+               <resp key="creator">Author of digital edition</resp>
             	<persName ref="part:rasa">
             		<forename>Rajat Sanyal</forename>
             		<surname>Tournier</surname>
